@@ -1,4 +1,4 @@
-# Aslam
+# MuhammedAslamkp
 <h1 align="center">Muhammed Aslamkp</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
